@@ -1,7 +1,9 @@
 Over all general steps involved in implementation:
+
 1.Setting IP
 2.Configure default routing on HQ and branch router
 3.Configure static route for HQ and branch on ISP router
+
 
 Configure  ISAKMP  to establish the IKE
 Define IP sec Transform set
